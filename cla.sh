@@ -11,5 +11,6 @@ date
 echo "The status of the result last command is " $?
 name=KESIYE
 echo "The writer of this code is $name"
+echo "$name  is doing well"
 
 
