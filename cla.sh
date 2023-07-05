@@ -9,4 +9,7 @@ echo 'The arguments are' $*
 echo 'The number arguments is' $@
 date 
 echo "The status of the result last command is " $?
+name=KESIYE
+echo "The writer of this code is $name"
+
 
